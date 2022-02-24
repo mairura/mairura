@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ted Brian
 - 👀 I’m interested in web development.
+- Am a junior dev in Node.js and Python.
 - 🌱 I’m currently doing some small projects.
 - 💞️ I’m looking to collaborate on various platfroms and with my colleagues and learn more.
 - 📫 How to reach me ..mairurated@gmail.com
