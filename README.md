@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ted Brian
+- 👋 Hi, I’m Mairura Brian
 - 👀 I’m interested in web development.
 - Am a junior dev in Node.js and Python.
 - 🌱 I’m currently doing some small projects.
