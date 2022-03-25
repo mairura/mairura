@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mairura Brian
-- 👀 I’m interested in web development.
-- 💻Am a dev in HTML, CSS, Bootstrap
+- 👀 I’m interested in web development in HTML, CSS, Bootstrap, Javascript
 - 🌱 I’m currently doing some small projects in Javascript and Node.js
 - 💞️ I’m looking to collaborate on various platfroms and with my colleagues and learn more.
 - 📫 How to reach me ..mairurat@gmail.com
