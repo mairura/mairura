@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Mairura Brian
 - 👀 I’m interested in web development.
-- Am a junior dev in Node.js and Python.
-- 🌱 I’m currently doing some small projects.
+- 💻Am a dev in HTML, CSS, Bootstrap
+- 🌱 I’m currently doing some small projects in Javascript and Node.js
 - 💞️ I’m looking to collaborate on various platfroms and with my colleagues and learn more.
-- 📫 How to reach me ..mairurated@gmail.com
+- 📫 How to reach me ..mairurat@gmail.com
 
 <!---
 mairura/mairura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
