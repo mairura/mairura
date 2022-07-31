@@ -1,4 +1,4 @@
-- 👋 Hi...we here to solve problems! Right? Am Brian
+- 👋 Hi...we here to find solutions! Right? Am Brian
 - 👀 I’m a web2 Frontend Web Development & web3 developer learning with Solidity
 - 💞️ I’m looking to collaborations and making new friends in tech...
 - 📫 Let's code
