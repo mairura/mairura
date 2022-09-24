@@ -1,5 +1,5 @@
 - 👋 Hi...we here to find solutions! Right? Am Brian
-- 👀 I’m a web2 Frontend Web Development & web3 developer learning with Solidity
+- 👀 Am a web3 developer learning with Solidity
 - 💞️ I’m looking to collaborations and making new friends in tech...
 - 📫 Let's code
 
