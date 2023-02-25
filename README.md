@@ -3,6 +3,10 @@
 mairura/mairura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Welcome!
+
+Thank you for visiting my profile. Get acquainted with with my repos.
+
 <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" alt="devgif" width="600px" height="600px" alignItems="center" display="flex" justifyContent="center" />
 
 - 👋 Hi...we here to find solutions! Right? Am Brian
