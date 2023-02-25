@@ -7,11 +7,11 @@
 mairura/mairura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" alt="devgif" />
+<img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" alt="devgif" width="100%" />
 
 # Brian Github Stats 
 
-[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=mairura&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/mairura/github-readme-stats)
+[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=mairura&count_private=true&show_icons=true&theme=merko)](https://github.com/mairura/github-readme-stats)
 
 # Top Languages
 
