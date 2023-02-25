@@ -3,7 +3,7 @@
 mairura/mairura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" alt="devgif" width="100%" height="60%" />
+<img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" alt="devgif" width="100%" height="600px" />
 
 - 👋 Hi...we here to find solutions! Right? Am Brian
 - 👀 Am a web3 developer learning with Solidity
