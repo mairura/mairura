@@ -16,7 +16,7 @@ Thank you for visiting my profile. Get acquainted with with my repos.
 
 # Github Stats 
 
-[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=mairura&count_private=true&show_icons=true&theme=merko)](https://github.com/mairura/github-readme-stats)
+<!-- [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=mairura&count_private=true&show_icons=true&theme=merko)](https://github.com/mairura/github-readme-stats) -->
 
 # Top Languages
 
