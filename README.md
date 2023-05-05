@@ -22,6 +22,3 @@ Thank you for visiting my profile. Get acquainted with with my repos.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mairura&theme=tokyonight) -->
 
-# Reach Me On:
-
-![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
