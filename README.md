@@ -1,12 +1,22 @@
-<h5>Hi friend 👋</h1=5>
+## 👋 Hi friend
+
+---
 
 🚀 I’m a fullstack developer with a strong passion for building scalable and performant applications.
 
-- Skilled in **Next.js**, **React**, **Node.js**, **Express**, **Python**, and **MongoDB**
-- Building intuitive UIs and powerful backends
-- Experience with REST APIs, GraphQL, JWT Auth, Mongoose, and SSR
-- I love working with real-time data and analytics dashboards
-- Always improving my system design and cloud deployment skills
-- Currently exploring: **Java**
+### 🛠️ Skills & Focus
+1. **Next.js**, **React**, **Node.js**, **Express**, **Python**, **MongoDB**
+2. REST APIs, GraphQL, JWT Auth, Mongoose, and SSR
+3. Real-time data and analytics dashboards
+4. System design and cloud deployment
+5. Currently exploring: **Java**
 
-📫 I’m open to collaborations, freelance work, and exciting projects
+---
+
+📫 I’m open to:
+1. Collaborations  
+2. Freelance work  
+3. Exciting projects  
+
+💬 _"Hit me up if you’re building something cool!"_
+
