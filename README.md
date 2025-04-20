@@ -2,31 +2,16 @@
 
 <ul>
   <li>
-    I’m a Fullstack Developer passionate about building scalable and efficient web applications.
+    I’m a Fullstack Developer with a passion for building scalable and efficient web applications. <br />
+    Always eager to talk about system design, optimizing performance, and creating seamless user experiences.
   </li>
   <li>
-    Always eager to talk about:
-    <ul>
-      <li>System design</li>
-      <li>Performance optimization</li>
-      <li>Creating seamless user experiences</li>
-    </ul>
+    Currently diving deeper into backend and cloud technologies. <br />
+    Always learning new tools and frameworks.
   </li>
   <li>
-    Currently diving deeper into:
-    <ul>
-      <li>Backend technologies</li>
-      <li>Cloud infrastructure</li>
-      <li>New tools and frameworks</li>
-    </ul>
-  </li>
-  <li>
-    🚀 Let’s connect and discuss:
-    <ul>
-      <li>Development</li>
-      <li>Scaling</li>
-      <li>Any exciting project you're working on</li>
-    </ul>
+    Let’s connect and discuss development, scaling, <br />
+    or any exciting project you're working on! 🚀 
   </li>
   <li>
     📫 Reach me at: <a href="mailto:mairurat@gmail.com">mairurat@gmail.com</a>
