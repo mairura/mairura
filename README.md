@@ -1,29 +1,32 @@
-## 👋 Hi there, friend!
+<h2>👋 Hi there, friend!</h2>
+
+<p>I’m a <strong>Fullstack Developer</strong> passionate about building <em>scalable</em> and <em>performant</em> applications across the stack.</p>
 
 ---
 
-### 🚀 About Me  
-**Fullstack Developer** passionate about building **scalable** and **performant** applications across the stack.
+<h3>🚀 What I Do</h3>
+
+<ul>
+  <li>🧠 <strong>Frontend:</strong> Next.js, React</li>
+  <li>🔙 <strong>Backend:</strong> Node.js, Express</li>
+  <li>💾 <strong>Databases:</strong> MongoDB, SQL</li>
+  <li>🔗 <strong>API & Auth:</strong> REST, GraphQL, JWT</li>
+  <li>⚙️ <strong>Other Tools:</strong> Mongoose, SSR</li>
+  <li>📈 Working with real-time data & dashboards</li>
+  <li>☁️ Sharpening system design & cloud skills</li>
+  <li>📚 Currently exploring: <strong>Java</strong></li>
+</ul>
 
 ---
 
-### 🔧 Tech & Tools
+<h3>🤝 Let's Connect</h3>
 
-* 🧠 **Frontend**: Next.js, React  
-* 🔙 **Backend**: Node.js, Express  
-* 💾 **Databases**: MongoDB, SQL  
-* 🔗 **API & Auth**: REST, GraphQL, JWT  
-* ⚙️ **Others**: Mongoose, SSR  
-* 📈 Real-time data & analytics dashboards  
-* ☁️ Improving system design & cloud deployment  
-* 📚 Currently exploring: **Java**
+<p>I’m open to:</p>
 
----
+<ul>
+  <li>🛠️ Collaborations</li>
+  <li>🌍 Freelance projects</li>
+  <li>🚀 Cool, impactful ideas</li>
+</ul>
 
-### 🤝 Open To
-
-* 🛠️ Collaborations  
-* 🌍 Freelance projects  
-* 🚀 Cool, impactful ideas  
-
-> 💬 _"Hit me up if you’re building something exciting!"_
+<blockquote><em>"Hit me up if you’re building something exciting!"</em></blockquote>
