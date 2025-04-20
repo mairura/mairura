@@ -9,6 +9,9 @@
     Currently diving deeper into backend and cloud technologies. Always learning new tools and frameworks.
   </li>
   <li>
+    Am also exploring more of Java and Docker
+  </li>
+  <li>
     Let’s connect and discuss development, scaling, or any exciting project you're working on! 🚀 
   </li>
   <li>
