@@ -1,32 +1,10 @@
-<h2>👋 Hi there, friend!</h2>
+# Hi there 👋
 
-<p>I’m a <strong>Fullstack Developer</strong> passionate about building <em>scalable</em> and <em>performant</em> applications across the stack.</p>
+I’m a Fullstack Developer with a passion for building scalable and efficient web applications. Always eager to talk about system design, optimizing performance, and creating seamless user experiences.
 
----
+Currently diving deeper into backend and cloud technologies, and always learning new tools and frameworks.
 
-<h3>🚀 What I Do</h3>
+🚀 Let’s connect and discuss development, scaling, or any exciting project you're working on!
 
-<ul>
-  <li>🧠 <strong>Frontend:</strong> Next.js, React</li>
-  <li>🔙 <strong>Backend:</strong> Node.js, Express</li>
-  <li>💾 <strong>Databases:</strong> MongoDB, SQL</li>
-  <li>🔗 <strong>API & Auth:</strong> REST, GraphQL, JWT</li>
-  <li>⚙️ <strong>Other Tools:</strong> Mongoose, SSR</li>
-  <li>📈 Working with real-time data & dashboards</li>
-  <li>☁️ Sharpening system design & cloud skills</li>
-  <li>📚 Currently exploring: <strong>Java</strong></li>
-</ul>
+📫 Reach me at: mairurat@gmail.com
 
----
-
-<h3>🤝 Let's Connect</h3>
-
-<p>I’m open to:</p>
-
-<ul>
-  <li>🛠️ Collaborations</li>
-  <li>🌍 Freelance projects</li>
-  <li>🚀 Cool, impactful ideas</li>
-</ul>
-
-<blockquote><em>"Hit me up if you’re building something exciting!"</em></blockquote>
