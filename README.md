@@ -28,7 +28,7 @@ I’m open to collaborations, freelance work, and exciting projects — especial
 
 > 💬 _"Hit me up if you’re building something cool!"_
 
-📧 **Email:** [mairurat@gmail.com]  
+📧 **Email:** mairurat@gmail.com
 
 ---
 
